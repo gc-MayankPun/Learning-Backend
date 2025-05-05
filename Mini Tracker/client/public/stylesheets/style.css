@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+html,
+body {
+    height: 100vh;
+    width: 100%;
+}
+
+/* Boiler Code */
+body {
+    /* background-color: #111; */
+    /* color: white; */
+}
+
+/* a {
+    color: rgb(37, 37, 167);
+    text-decoration: none;
+}
+
+button {
+    outline: none;
+    border: none;
+    padding: .5rem .8rem;
+    border-radius: 1rem;
+    cursor: pointer;
+} */
+
+#map{
+    width: 100%;
+    height: 100%;
+}
+
+/* For Tablets */
+@media (max-width: 1024px) {}
+
+/* For Mobiles */
+@media (max-width: 768px) {}
